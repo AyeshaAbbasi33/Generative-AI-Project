@@ -4,6 +4,7 @@ This repository contains hands-on projects focused on understanding how Large La
 These projects were built as part of practical learning in Generative AI systems, covering model deployment, API interaction, GPU training, and parameter-efficient fine-tuning.
 
 📌 Project 1: Local LLM Chatbot (Ollama + Streamlit)
+
 🔎 Overview
 
 <img width="800" height="648" alt="llm" src="https://github.com/user-attachments/assets/64064a41-810b-46fc-b59e-51c709a89c0f" />
@@ -46,6 +47,7 @@ Lightweight AI UI development
 Understanding inference workflows
 
 📌 Project 2: Fine-Tuning an LLM with Unsloth
+
 🔎 Overview
 <img width="800" height="554" alt="t2" src="https://github.com/user-attachments/assets/112b5a52-ebb7-4e3f-b4ef-eed2af7086de" />
 
