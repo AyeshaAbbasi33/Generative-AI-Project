@@ -6,6 +6,8 @@ These projects were built as part of practical learning in Generative AI systems
 📌 Project 1: Local LLM Chatbot (Ollama + Streamlit)
 🔎 Overview
 
+<img width="1015" height="648" alt="llm" src="https://github.com/user-attachments/assets/64064a41-810b-46fc-b59e-51c709a89c0f" />
+
 This project demonstrates how to run a lightweight LLM locally and build a simple interactive chatbot interface around it.
 Instead of relying on cloud APIs, the model runs directly on a local machine.
 
