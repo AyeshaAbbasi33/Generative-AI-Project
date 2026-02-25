@@ -6,7 +6,7 @@ These projects were built as part of practical learning in Generative AI systems
 📌 Project 1: Local LLM Chatbot (Ollama + Streamlit)
 🔎 Overview
 
-<img width="1015" height="648" alt="llm" src="https://github.com/user-attachments/assets/64064a41-810b-46fc-b59e-51c709a89c0f" />
+<img width="800" height="648" alt="llm" src="https://github.com/user-attachments/assets/64064a41-810b-46fc-b59e-51c709a89c0f" />
 
 This project demonstrates how to run a lightweight LLM locally and build a simple interactive chatbot interface around it.
 Instead of relying on cloud APIs, the model runs directly on a local machine.
@@ -47,6 +47,8 @@ Understanding inference workflows
 
 📌 Project 2: Fine-Tuning an LLM with Unsloth
 🔎 Overview
+<img width="800" height="554" alt="t2" src="https://github.com/user-attachments/assets/112b5a52-ebb7-4e3f-b4ef-eed2af7086de" />
+
 
 This project demonstrates how to fine-tune a quantized LLM using LoRA (Low-Rank Adaptation) for instruction-based tasks.
 The training was performed using GPU acceleration.
